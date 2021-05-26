@@ -1,0 +1,30 @@
+main: com.heyimnotabotlol.Main
+name: McPlugin
+api-version: 1.16
+version: 1
+
+commands:
+  date:
+    description: Shows the date
+  vault1:
+    description: Opens the first vault
+  vault2:
+    description: Opens the second vault
+  vault3:
+    description: Opens the third vault
+  vault4:
+    description: Opens the fourth vault
+  vault5:
+    description: Opens the fifth vault
+  timer:
+    description: Setup a timer
+  t:
+    description: timer
+  giveitem:
+    description: Gives an item to the player
+  select:
+    description: Opens the selection screen
+  fly:
+    description: Allows you to fly
+  gm:
+    description: Changes the gamemode
